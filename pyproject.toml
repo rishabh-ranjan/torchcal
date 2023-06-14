@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "torchcal"
+version = "1.0.0"
+description = "post-hoc calibration with pytorch"
+readme = "README.md"
+authors = [{ name = "Rishabh Ranjan", email = "rishabhranjan0207@gmail.com" }]
+license = { file = "LICENSE" }
+dependencies = ["pytorch-minimize", "torch"]
