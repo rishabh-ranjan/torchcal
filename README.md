@@ -45,7 +45,7 @@ Supported calibrators (and number of calibration parameters) are:
 
 ## cite
 
-If you use this package, please consider citing the original papers and the `pytorch-minimize` library:
+If you use this package, please consider citing the original papers and the [pytorch-minimize](https://github.com/rfeinman/pytorch-minimize) library:
 
 ```bibtex
 @inproceedings{guo2017calibration,
