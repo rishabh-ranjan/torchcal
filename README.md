@@ -45,7 +45,18 @@ Supported calibrators (and number of calibration parameters) are:
 
 ## cite
 
-If you use this package, please consider citing this and the [pytorch-minimize](https://github.com/rfeinman/pytorch-minimize) library:
+If you use this package, please consider citing us and the [pytorch-minimize](https://github.com/rfeinman/pytorch-minimize) library:
+
+```bibtex
+@misc{ranjan2023torchcal,
+author = {Ranjan, Rishabh},
+title = {{torchcal}: post-hoc calibration on GPU},
+publisher = {GitHub},
+year = {2023}
+url = {https://github.com/rishabh-ranjan/torchcal},
+version = {1.0.0},
+}
+```
 
 ```bibtex
 @misc{feinman2021pytorch,
