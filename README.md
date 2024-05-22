@@ -45,7 +45,19 @@ Supported calibrators (and number of calibration parameters) are:
 
 ## cite
 
-If you use this package, please consider citing the original papers and the [pytorch-minimize](https://github.com/rfeinman/pytorch-minimize) library:
+If you use this package, please consider citing this and the [pytorch-minimize](https://github.com/rfeinman/pytorch-minimize) library:
+
+```bibtex
+@misc{feinman2021pytorch,
+  author = {Feinman, Reuben},
+  title = {Pytorch-minimize: a library for numerical optimization with autograd},
+  publisher = {GitHub},
+  year = {2021},
+  url = {https://github.com/rfeinman/pytorch-minimize},
+}
+```
+
+and the original papers:
 
 ```bibtex
 @inproceedings{guo2017calibration,
@@ -66,16 +78,6 @@ If you use this package, please consider citing the original papers and the [pyt
   pages={222--232},
   year={2020},
   organization={PMLR}
-}
-```
-
-```bibtex
-@misc{feinman2021pytorch,
-  author = {Feinman, Reuben},
-  title = {Pytorch-minimize: a library for numerical optimization with autograd},
-  publisher = {GitHub},
-  year = {2021},
-  url = {https://github.com/rfeinman/pytorch-minimize},
 }
 ```
 
