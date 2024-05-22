@@ -1,4 +1,4 @@
-# torchcal: post-hoc calibration on GPUs
+# torchcal: post-hoc calibration on GPU
 
 This package provides PyTorch implementations (including GPU support) of post-hoc calibration techniques commonly employed for deep neural networks.
 
