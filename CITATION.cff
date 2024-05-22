@@ -3,6 +3,6 @@ message: "If you use this package, please cite it as below."
 authors:
 - family-names: "Ranjan"
   given-names: "Rishabh"
-title: "torchcal"
+title: "torchcal: post-hoc calibration on GPU"
 version: 1.0.0
 url: "https://github.com/rishabh-ranjan/torchcal"
