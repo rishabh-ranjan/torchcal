@@ -50,7 +50,7 @@ If you use this package, please consider citing us and the [pytorch-minimize](ht
 ```bibtex
 @misc{ranjan2023torchcal,
 author = {Ranjan, Rishabh},
-title = {{torchcal}: post-hoc calibration on GPU},
+title = {{torchcal}: post-hoc calibration on {GPU}},
 publisher = {GitHub},
 year = {2023},
 url = {https://github.com/rishabh-ranjan/torchcal},
